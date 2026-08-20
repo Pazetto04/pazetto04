@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available: [https://github.com/Pazetto04](https://github.com/Pazetto04)
 
-- ⚡ Fun fact: [I love playing tabletop RPGs 🛡️](I love playing tabletop RPGs 🛡️)
+- ⚡ Fun fact: I love playing tabletop RPGs 🛡️
 
 - 💬 Ask me about: **Java Programming Logic and modding!**
 
