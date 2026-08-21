@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Matheus Pazetto</h1>
 <h3 align="center">A passionate Java development student from Brazil! 🇧🇷 </h3>
 <p> </p>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.readmecodegen.com/api/social-icon?name=Android%2CJava%2CFlutter%2CJavaScript&size=46&link=" alt="Android-Java-Flutter-JavaScript" /> </a> </p>
 <p> </p>
 
 - 🔭 I’m currently working on [Java Basics And Fundamentals](https://github.com/Pazetto04/Java-OOP-Learning-Codes)
