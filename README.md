@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Matheus Pazetto</h1>
-<h3 align="center">A passionate Java development student from Brazil! 🇧🇷 </h3>
+<h3 align="center">A passionate mobile development student from Brazil! 🇧🇷 </h3>
 <p> </p>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.readmecodegen.com/api/social-icon?name=Android%2CJava%2CFlutter%2CJavaScript&size=46&link=" alt="Android-Java-Flutter-JavaScript" /> </a> </p>
 <p> </p>
