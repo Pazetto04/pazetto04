@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Java Basics And Fundamentals](https://github.com/Pazetto04/Java-OOP-Learning-Codes)
 
-- 🌱 I’m currently learning **Java Fullstack**
+- 🌱 I’m currently learning **Mobile Development with Expo📱**
 
 - 🎮 Verified Mod Author on Nexus Mods! [My Mods here ;)](https://www.nexusmods.com/profile/LtHunter07)
 
