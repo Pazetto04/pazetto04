@@ -43,6 +43,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+### 🏅 Certifications & Badges
+
+<a href="https://www.credly.com/go/r0aEMqLS">
+  <img src="./assets/aws-cloud-foundations.png" alt="AWS Academy Cloud Foundations Badge" width="150"/>
+</a>
+
+**AWS Academy Graduate – Cloud Foundations**  
+Amazon Web Services (AWS) | November 2026 | 20 hours
+
+Fundamentals of cloud computing, AWS services, cloud architecture, security, and pricing.
+
+[🔗 Verify Credential](https://www.credly.com/go/r0aEMqLS)
+
 ### 📂 Featured Projects
 
 #### 📦 [SisCM — Inventory Management System](https://github.com/Pazetto04/SisCM)
@@ -79,5 +92,3 @@ A personal repository documenting my progress in Java programming.
 <p align="center">
   <i>Always learning, always improving.</i>
 </p>
-
-
