@@ -70,7 +70,7 @@ A personal repository documenting my progress in Java programming.
 
 ### 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/matheus-pazetto)
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-pazetto-8b99782ba/)
 - 💻 [GitHub](https://github.com/Pazetto04)
 - 📧 **Email:** mpazetto04@gmail.com
 
